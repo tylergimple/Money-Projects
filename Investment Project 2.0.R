@@ -1,4 +1,5 @@
 library(ggplot2)
+library(quantmod)
 library(reshape)
 library(readxl)
 library(dplyr)

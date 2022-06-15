@@ -1,4 +1,5 @@
 library(tidyquant)
+library(quantmod)
 library(timetk)
 library(ggplot2)
 library(dplyr)
